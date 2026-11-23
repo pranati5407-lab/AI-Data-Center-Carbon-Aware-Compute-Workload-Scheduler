@@ -1,0 +1,8 @@
+ortools>=9.9
+numpy
+pandas
+matplotlib
+streamlit
+fastapi
+uvicorn
+httpx
